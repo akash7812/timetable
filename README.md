@@ -119,6 +119,6 @@ Execute the program
 
 
 # OUPUT
-![outpu](./timetable.png)
+![output](./timetable.png)
 # result:
 Timetable is created and program executed successfully.
